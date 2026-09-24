@@ -84,7 +84,7 @@ nav {
 .hero:hover {
     box-shadow: 4px 7px 20px 0px black;
     transform: scale(1.02);
-    background-color: #1313de;
+    background-color: #808080;
     color: white;
 }
 
@@ -179,7 +179,7 @@ h2 {
 .about-section:hover {
     box-shadow: 4px 7px 20px 0px black;
     transform: scale(1.02);
-    background-color: #0ad04c;
+    background-color: #808080;
     color: white;
 }
 .about-section h2{
@@ -266,7 +266,7 @@ h2 {
 .services-section:hover {
     box-shadow: 4px 7px 20px 0px black;
     transform: scale(1.02);
-    background-color: #0db3b3;
+    background-color: #808080;
     color: white;
 }
 .services-section h2{
@@ -330,7 +330,7 @@ h2 {
 .skills-section:hover {
     box-shadow: 4px 7px 20px 0px black;
     transform: scale(1.02);
-    background-color: #dee912;
+    background-color: #808080;
     color: white;
 }
 .skills-section p{
@@ -388,7 +388,7 @@ h2 {
 .contact-section:hover {
     box-shadow: 4px 7px 20px 0px black;
     transform: scale(1.02);
-    background-color: #923838;
+    background-color: #808080;
     color: white;
 }
 .contact-section .content-container {
